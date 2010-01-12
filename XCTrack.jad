@@ -1,0 +1,12 @@
+Navi-Key-Hidden: true
+MIDlet-1: XCTrack,/icon.png,org.xcontest.xctrack.App
+MIDlet-Jar-URL: XCTrack.jar
+MIDlet-Permissions-Opt: javax.microedition.io.Connector.socket, javax.microedition.io.Connector.http, javax.microedition.io.Connector.comm, javax.wireless.messaging.sms.send
+MIDlet-Icon: /icon.png
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.2.6
+MIDlet-Vendor: XContest.org
+MIDlet-Name: XCTrack
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Permissions: javax.microedition.io.Connector.datagram, javax.microedition.io.Connector.datagramreceiver
+Nokia-MIDlet-On-Screen-Keypad: no
